@@ -1,0 +1,8 @@
+*.obj
+*.Release
+build-ECalculator-Desktop-Debug/ui_mainwindow.h
+*.Debug
+build-ECalculator-Desktop-Debug/Makefile
+build-ECalculator-Desktop-Debug/debug/moc_mainwindow.cpp
+*.pdb
+build-ECalculator-Desktop-Debug/debug/ECalculator.ilk

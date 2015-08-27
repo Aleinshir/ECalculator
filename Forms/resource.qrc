@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../build-Electronica-Desktop-Debug/debug/plus-sign-clip-art-6217.png</file>
+        <file>../build-Electronica-Desktop-Debug/debug/plus-sign-clip-art-62172.png</file>
+    </qresource>
+</RCC>
